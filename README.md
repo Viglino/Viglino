@@ -1,9 +1,9 @@
-### Programming Languages 🌐
+### 🌐 Programming Languages 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="24">
 |---|---|---|---|
 
-### Tools 🛠️
+### 🛠️ Tools 
 
 <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="Cordova" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png" alt="OpenRefine" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="QGIS" height="24"> | <img  src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" alt="mysql" height="24"> 
 |---|---|---|---|---|
