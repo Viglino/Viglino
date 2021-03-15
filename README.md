@@ -1,3 +1,8 @@
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/jmviglino?style=social) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Github.Viglino)
+
 ### 🌐 Programming Languages 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JS" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" height="24">
@@ -9,6 +14,8 @@
 |---|---|---|---|---|
 
 ![](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true)
+
+! [](https://github-readme-stats.vercel.app/api/top-langs/?username=viglino&layout=compact)
 
 <!--
 **Viglino/Viglino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
