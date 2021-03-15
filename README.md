@@ -13,6 +13,8 @@
 <img src="https://cordova.apache.org/static/img/cordova_bot.png" alt="Cordova" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenRefine_New_Logo.png" alt="OpenRefine" height="24"> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="QGIS" height="24"> | <img  src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" alt="mysql" height="24"> 
 |---|---|---|---|---|
 
+### 📊 Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viglino&layout=compact)
