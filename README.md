@@ -1,6 +1,5 @@
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/jmviglino?style=social) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jmviglino?style=social)](https://mobile.twitter.com/jmviglino)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Github.Viglino)
 
 ### 🌐 Programming Languages 
