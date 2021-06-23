@@ -14,6 +14,8 @@
 
 ### 📊 Stats
 
+![](https://github-profile-trophy.vercel.app/?username=viglino&theme=onedark&title=Stars,Followers,Commit,Repositories)
+
 ![](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viglino&layout=compact)
