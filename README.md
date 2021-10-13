@@ -18,6 +18,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true)
 
+[![Git Stars](https://git-stars.com/share/embed/Viglino.svg)](https://git-stars.com/user/Viglino)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viglino&layout=compact)
 
 <!--
