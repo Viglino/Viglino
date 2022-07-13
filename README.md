@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Main repo
 
-### <img src="https://viglino.github.io/font-gis/svg/layer/uEB48-layer-alt-add-o.svg" height="40" align="left" /> ol-ext
+### [<img src="https://viglino.github.io/font-gis/svg/layer/uEB48-layer-alt-add-o.svg" height="40" align="left" /> ol-ext](https://github.com/Viglino/ol-ext)
 *Cool extensions for [OpenLayers](https://github.com/openlayers/openlayers) (ol)*.
 
 [![](https://img.shields.io/npm/v/ol-ext.svg)](https://www.npmjs.com/package/ol-ext)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [ol-ext](https://github.com/Viglino/ol-ext) is a set of extensions, controls, interactions, popup to use with Openlayers.    
 [View live examples online](http://viglino.github.io/ol-ext/) or the [API documentation](http://viglino.github.io/ol-ext/doc/doc-pages/).
 
-### <img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" align="left" /> Font-GIS
+### [<img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" align="left" /> Font-GIS](https://github.com/Viglino/font-gis)
 *Icon font set for use with GIS and spatial analysis tools*
 
 [![](https://img.shields.io/npm/v/font-gis.svg)](https://www.npmjs.com/package/font-gis)
