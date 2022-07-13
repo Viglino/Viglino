@@ -34,3 +34,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Main repo
+
+### <img src="https://viglino.github.io/font-gis/svg/layer/uEB48-layer-alt-add-o.svg" height="40" align="left" /> ol-ext
+*Cool extensions for [OpenLayers](https://github.com/openlayers/openlayers) (ol)*.
+
+[![](https://img.shields.io/npm/v/ol-ext.svg)](https://www.npmjs.com/package/ol-ext)
+![](https://img.shields.io/github/stars/viglino/ol-ext.svg)
+![](https://img.shields.io/npm/dt/ol-ext.svg)
+![](https://img.shields.io/npm/dw/ol-ext)
+![](https://img.shields.io/npm/l/ol-ext.svg)
+
+<img src="https://viglino.github.io/ol-ext/img/map.style.photo.jpg" width=100> <img src="https://viglino.github.io/ol-ext/img/map.style.chart+text.jpg" width=100> <img src="https://viglino.github.io/ol-ext/img/map.animatedcluster.gif" width=100> <img src="https://viglino.github.io/ol-ext/img/map.layer.hexbin.jpg" width=100> <img src="https://viglino.github.io/ol-ext/img/map.interaction.blob.gif" width=100>
+
+[ol-ext](https://github.com/Viglino/ol-ext) is a set of extensions, controls, interactions, popup to use with Openlayers.    
+[View live examples online](http://viglino.github.io/ol-ext/) or the [API documentation](http://viglino.github.io/ol-ext/doc/doc-pages/).
+
+### <img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" align="left" /> Font-GIS
+*Icon font set for use with GIS and spatial analysis tools*
+
+[![](https://img.shields.io/npm/v/font-gis.svg)](https://www.npmjs.com/package/font-gis)
+![](https://img.shields.io/npm/dt/font-gis.svg)
+![](https://img.shields.io/npm/dw/font-gis)
+![](https://img.shields.io/npm/l/font-gis.svg)
+
+I've collected in this repo icons and graphics I've been using in my projects.
+Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
+They can be easily included in a project using the font or svg images.
