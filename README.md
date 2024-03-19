@@ -68,7 +68,15 @@ They can be easily included in a project using the font or svg images.
 
 <img src="https://user-images.githubusercontent.com/7868217/225907457-ce3c4339-c830-4b98-ba54-167d7e43d153.png" width="500" />
 
-### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/search/uEB13-search-data.svg" height="40" align="left" /> Modèles d’interfaces pour Ma carte](https://viglino.github.io/Macarte-MI/)
+### Cartographie
+#### #30DayMapCHallenge
+
+<img src="https://viglino.github.io/MapChallenge2023/assets/banner.jpg" width="500" />
+
+* [2023](https://viglino.github.io/MapChallenge2023/)
+* [2022](https://viglino.github.io/MapChallenge2022/)
+
+#### [Modèles d’interfaces pour Ma carte](https://viglino.github.io/Macarte-MI/)
 *Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
 
 <img src="https://viglino.github.io/Macarte-MI/assets/banner/dessin.jpg" width="500"/>
