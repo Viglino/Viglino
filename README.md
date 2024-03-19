@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Main repo
 
-### [<img src="https://viglino.github.io/font-gis/svg/layer/uEB48-layer-alt-add-o.svg" height="40" align="left" /> ol-ext](https://github.com/Viglino/ol-ext)
+### [<img src="https://viglino.github.io/font-gis/svg/layer/uEB48-layer-alt-add-o.svg" height="40" align="left" />ol-ext](https://github.com/Viglino/ol-ext)
 *Cool extensions for [OpenLayers](https://github.com/openlayers/openlayers) (ol)*.
 
 [![](https://img.shields.io/npm/v/ol-ext.svg)](https://www.npmjs.com/package/ol-ext)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [ol-ext](https://github.com/Viglino/ol-ext) is a set of extensions, controls, interactions, popup to use with Openlayers.    
 [View live examples online](http://viglino.github.io/ol-ext/) or the [API documentation](http://viglino.github.io/ol-ext/doc/doc-pages/).
 
-### [<img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" align="left" /> Font-GIS](https://github.com/Viglino/font-gis)
+### [<img src="https://github.com/Viglino/font-gis/blob/main/svg/globe/uEA82-globe-poi.svg" height="40" align="left" />Font-GIS](https://github.com/Viglino/font-gis)
 *Icon font set for use with GIS and spatial analysis tools*
 
 [![](https://img.shields.io/npm/v/font-gis.svg)](https://www.npmjs.com/package/font-gis)
@@ -63,12 +63,12 @@ I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using the font or svg images.
 
-### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/layer/uEB2E-layer-alt-edit.svg" height="40" align="left" /> Géoservcice-style](https://github.com/Viglino/geoservice-style?tab=readme-ov-file#-style)
+### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/layer/uEB2E-layer-alt-edit.svg" height="40" align="left" />Géoservcice-style](https://github.com/Viglino/geoservice-style?tab=readme-ov-file#-style)
 *Style for IGN's Géoservice vector tiles (TMS/WMTS)*
 
 <img src="https://user-images.githubusercontent.com/7868217/225907457-ce3c4339-c830-4b98-ba54-167d7e43d153.png" width="500" />
 
-### <img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/tools/uEAA7-full-screen.svg" height="40" align="left" /> Cartographie
+### <img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/tools/uEAA7-full-screen.svg" height="40" align="left" />Cartographie
 #### #30DayMapCHallenge
 
 <img src="https://viglino.github.io/MapChallenge2023/assets/banner.jpg" width="500" />
