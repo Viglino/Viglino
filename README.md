@@ -62,3 +62,22 @@ Here are some ideas to get you started:
 I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using the font or svg images.
+
+### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/layer/uEB2E-layer-alt-edit.svg" height="40" align="left" /> Géoservcice-style](https://github.com/Viglino/geoservice-style?tab=readme-ov-file#-style)
+*Style for IGN's Géoservice vector tiles (TMS/WMTS)*
+
+<img src="https://user-images.githubusercontent.com/7868217/225907457-ce3c4339-c830-4b98-ba54-167d7e43d153.png" width="500" />
+
+### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/search/uEB13-search-data.svg" height="40" align="left" /> Modèles d’interfaces pour Ma carte](https://viglino.github.io/Macarte-MI/)
+*Des modèles pour créer des conceptions efficaces et raconter des histoires avec des cartes.*
+
+<img src="https://viglino.github.io/Macarte-MI/assets/banner/dessin.jpg" width="500"/>
+
+Cette publication vous donne un aperçu des possibilités offertes par les nouveaux outils du géoweb pour manipuler des données sur des cartes et les mettre en ligne.
+Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, dans les affaires, dans la recherche ou dans l'éducation.
+
+### [![](https://viglino.github.io/vagabondage/dices.164e0737.png) Vagabondage](https://viglino.github.io/vagabondage/)
+*Jeu de rôle en solitaire qui se joue en ligne sur les cartes et photographies aériennes de l'IGN.*
+Entre survie et rencontres, vous incarnez un personnage en fuite dans la campagne française.
+
+<img src="https://github.com/Viglino/vagabondage/raw/main/assets/img/banner.jpg" width="500" />
