@@ -68,7 +68,7 @@ They can be easily included in a project using the font or svg images.
 
 <img src="https://user-images.githubusercontent.com/7868217/225907457-ce3c4339-c830-4b98-ba54-167d7e43d153.png" width="500" />
 
-### Cartographie
+### <img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/tools/uEAA7-full-screen.svg" height="40" align="left" /> Cartographie
 #### #30DayMapCHallenge
 
 <img src="https://viglino.github.io/MapChallenge2023/assets/banner.jpg" width="500" />
