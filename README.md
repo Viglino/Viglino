@@ -63,7 +63,7 @@ I've collected in this repo icons and graphics I've been using in my projects.
 Font-GIS icons and font theme is designed mainly for GIS applications and web mapping tools. 
 They can be easily included in a project using the font or svg images.
 
-### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/layer/uEB2E-layer-alt-edit.svg" height="40" align="left" />Géoservcice-style](https://github.com/Viglino/geoservice-style?tab=readme-ov-file#-style)
+### [<img src="https://raw.githubusercontent.com/Viglino/font-gis/main/svg/layer/uEB2E-layer-alt-edit.svg" height="40" align="left" />Géoservice-style](https://github.com/Viglino/geoservice-style?tab=readme-ov-file#-style)
 *Style for IGN's Géoservice vector tiles (TMS/WMTS)*
 
 <img src="https://user-images.githubusercontent.com/7868217/225907457-ce3c4339-c830-4b98-ba54-167d7e43d153.png" width="500" />
