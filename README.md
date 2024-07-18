@@ -14,7 +14,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=viglino&theme=onedark&title=Stars,Followers,Commit,Repositories)
 
-![](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true)
+![Viglino GitHub stats](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
 [![Git Stars](https://git-stars.com/share/embed/Viglino.svg)](https://git-stars.com/user/Viglino)
 
