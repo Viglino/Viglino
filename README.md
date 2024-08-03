@@ -82,7 +82,7 @@ They can be easily included in a project using the font or svg images.
 <img src="https://viglino.github.io/Macarte-MI/assets/banner/dessin.jpg" width="500"/>
 
 Cette publication vous donne un aperçu des possibilités offertes par les nouveaux outils du géoweb pour manipuler des données sur des cartes et les mettre en ligne.
-Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, dans les affaires, dans la recherche ou dans l'éducation.
+Elle montre comment bénéficier de la géoinformation en tant qu'individus ou société, pour des utilisations en politique, en milieu professionnel, dans la recherche ou dans l'éducation.
 
 ### [![](https://viglino.github.io/vagabondage/dices.164e0737.png) Vagabondage](https://viglino.github.io/vagabondage/)
 *Jeu de rôle en solitaire qui se joue en ligne sur les cartes et photographies aériennes de l'IGN.*
