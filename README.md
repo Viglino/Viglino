@@ -73,6 +73,7 @@ They can be easily included in a project using the font or svg images.
 
 <img src="https://viglino.github.io/MapChallenge2023/assets/banner.jpg" width="500" />
 
+* [2024](https://viglino.github.io/MapChallenge2024/)
 * [2023](https://viglino.github.io/MapChallenge2023/)
 * [2022](https://viglino.github.io/MapChallenge2022/)
 
