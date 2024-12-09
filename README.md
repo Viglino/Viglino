@@ -1,6 +1,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jmviglino?style=social)](https://mobile.twitter.com/jmviglino)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Github.Viglino)
+![](https://img.shields.io/github/stars/viglino?style=social)
 
 ### 🌐 Programming Languages 
 
@@ -16,24 +16,7 @@
 
 ![Viglino GitHub stats](https://github-readme-stats.vercel.app/api?username=viglino&show_icons=true&theme=default&count_private=true&include_all_commits=true)
 
-[![Git Stars](https://git-stars.com/share/embed/Viglino.svg)](https://git-stars.com/user/Viglino)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viglino&layout=compact)
-
-<!--
-**Viglino/Viglino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Main repo
 
@@ -41,7 +24,7 @@ Here are some ideas to get you started:
 *Cool extensions for [OpenLayers](https://github.com/openlayers/openlayers) (ol)*.
 
 [![](https://img.shields.io/npm/v/ol-ext.svg)](https://www.npmjs.com/package/ol-ext)
-![](https://img.shields.io/github/stars/viglino/ol-ext.svg)
+![](https://img.shields.io/github/stars/viglino/ol-ext.svg?style=)
 ![](https://img.shields.io/npm/dt/ol-ext.svg)
 ![](https://img.shields.io/npm/dw/ol-ext)
 ![](https://img.shields.io/npm/l/ol-ext.svg)
@@ -55,6 +38,7 @@ Here are some ideas to get you started:
 *Icon font set for use with GIS and spatial analysis tools*
 
 [![](https://img.shields.io/npm/v/font-gis.svg)](https://www.npmjs.com/package/font-gis)
+![](https://img.shields.io/github/stars/viglino/font-gis.svg?style=)
 ![](https://img.shields.io/npm/dt/font-gis.svg)
 ![](https://img.shields.io/npm/dw/font-gis)
 ![](https://img.shields.io/npm/l/font-gis.svg)
